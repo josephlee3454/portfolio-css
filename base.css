@@ -1,3 +1,137 @@
-header{
-    background-color: yellow;
+
+.overall-container{
+    
+    background-color:#6F5964;
+    margin-top:6px;
+    height: 1300px;
+    width: 100%;
+
+}
+
+.article-margin-mover{
+    display: flex;
+   
+    height: 200px;
+    width: 100%;
+}
+
+#profile-pic{
+    background-color: aquamarine;
+
+    margin-left: 15px;
+    margin-top: 15px;
+    width: 400%;
+    height: 200%;
+   
+}
+#about{
+    background-color: aquamarine;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 15px;
+    width:600%;
+    height: 200%;
+}
+.same-divs{
+    margin-top: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+.triple-divs{
+    background-color: white;
+    height: 700px;
+    width: 20%;
+
+}
+#triple-div-header{
+    background:linear-gradient(	#B9BCBC,#658992);
+    height: 50px;
+   
+}
+.text-mover{
+    padding-top: 3%;
+    margin-left: 10%;
+    color: #F2F8F5;
+    font-size: 25px;
+}
+#images{
+    margin-top: 5%;
+    margin-left: 10%;
+    width: 300px;
+    height: 300px;
+}
+
+.the-footer{
+    display: flex;
+}
+.icons{
+    margin-top: 16px;
+    margin-left: 3px;
+    margin-right: 3px;
+
+    width: 13%;
+}
+
+.footer-head{
+    height: 50px;
+    background:linear-gradient(	#B9BCBC,#658992);
+}
+#tech-div{
+    padding-top: 3%;
+    margin-left: 10%;
+    color: #F2F8F5;
+    font-size: 25px;
+}
+#profile-image{
+    width: 100%;
+    height: 100%;
+}
+#about-header{
+    height: 50px;
+    background:linear-gradient(	#B9BCBC,#658992);
+}
+#about{
+    background-color: white;
+}
+.outside-header{
+    display: flex;
+    height: 85px;
+    background-color: whitesmoke;
+    
+}
+#h-title{
+margin-left: 80%;
+}
+#h-name{
+margin-left:14px;
+}
+.real-footer-images{
+    width: 15%;
+    display: flex;
+    margin-left: 30%;
+
+}
+.realfooter{
+    margin-left: 45%;
+}
+.anchors{
+    margin-top: 48px;
+    margin-left: 15%;
+    padding-right: 15%;
+}
+#button-mover{
+    margin-top: 4px;
+    margin-left: 40%;
+   
+}
+button{
+    border-radius: 14%;
+    background-color: #407D61;
+    border: 2px solid black;
+    border-radius: 10px;
+  
+   
+}
+#read-link{
+    margin-left: 14%;
 }
